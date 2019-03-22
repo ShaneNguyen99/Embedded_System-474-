@@ -6,5 +6,5 @@
 <br />![alt text](https://github.com/ShaneNguyen99/Embedded_System-474/blob/master/pic2.png)
 <br /><br />
 ## Project Videos
-* We shoot a short video demonstating our project working: LINK HERE
-* We also shoot another video walking through our C code: LINK HERE
+* We shoot a short video demonstating our project working: [Here](https://www.youtube.com/watch?v=EV58WFWePKU)
+* We also shoot another video walking through our C code: [Here](https://www.youtube.com/watch?v=o4Fxm-gpvEw&feature=youtu.be)
