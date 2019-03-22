@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>4</fileVersion>
+    <fileChecksum>3622950030</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\driverlib\uart.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\startup_ewarm.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\startup_rvmdk.o</file>
+            <file>$PROJ_DIR$\..\include\mpu_wrappers.h</file>
+            <file>$PROJ_DIR$\..\include\task.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\switch_task.pbi</file>
+            <file>$PROJ_DIR$\driverlib\rom.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\inc\hw_memmap.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\freertos_demo.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+            <file>$PROJ_DIR$\..\include\semphr.h</file>
+            <file>$PROJ_DIR$\..\freertos_demo - revised by Ameya\freertos_demo.c</file>
+            <file>$PROJ_DIR$\..\freertos_demo - revised by Ameya\switch_task.h</file>
+            <file>$PROJ_DIR$\..\freertos_demo - revised by Ameya\startup_ccs.c</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$PROJ_DIR$\..\include\projdefs.h</file>
+            <file>$PROJ_DIR$\..\freertos_demo - revised by Ameya\FreeRTOSConfig.h</file>
+            <file>$PROJ_DIR$\..\freertos_demo - revised by Ameya\led_task.h</file>
+            <file>$PROJ_DIR$\..\freertos_demo - revised by Ameya\portmacro.h</file>
+            <file>$PROJ_DIR$\..\freertos_demo - revised by Ameya\switch_task.c</file>
+            <file>$PROJ_DIR$\..\freertos_demo - revised by Ameya\led_task.c</file>
+            <file>$PROJ_DIR$\..\freertos_demo - revised by Ameya\startup_rvmdk.S</file>
+            <file>$PROJ_DIR$\main.c</file>
+            <file>$PROJ_DIR$\..\freertos_demo - revised by Ameya\startup_ewarm.c</file>
+            <file>$PROJ_DIR$\..\freertos_demo - revised by Ameya\port.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\led_task.o</file>
+            <file>$PROJ_DIR$\..\freertos_demo - revised by Ameya\priorities.h</file>
+            <file>$PROJ_DIR$\..\freertos_demo - revised by Ameya\startup_gcc.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\led_task.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdarg.h</file>
+            <file>$PROJ_DIR$\..\freertos_demo - revised by Ameya\utils\uartstdio.h</file>
+            <file>$PROJ_DIR$\..\include\queue.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>$PROJ_DIR$\..\drivers\rgb.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\port.o</file>
+            <file>$PROJ_DIR$\inc\hw_types.h</file>
+            <file>$PROJ_DIR$\..\freertos_demo - revised by Ameya\sleep.h</file>
+            <file>$PROJ_DIR$\..\drivers\buttons.h</file>
+            <file>$PROJ_DIR$\..\include\portable.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\startup_ccs.o</file>
+            <file>$PROJ_DIR$\Debug\Exe\freertos_demo_Ameya_Hoang.out</file>
+            <file>$PROJ_DIR$\..\include\list.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+            <file>$PROJ_DIR$\inc\hw_nvic.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$PROJ_DIR$\inc\hw_gpio.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\startup_gcc.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\startup_ewarm.o</file>
+            <file>$PROJ_DIR$\..\include\FreeRTOS.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\startup_ccs.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\freertos_demo.o</file>
+            <file>$PROJ_DIR$\driverlib\gpio.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\switch_task.o</file>
+            <file>$PROJ_DIR$\driverlib\pin_map.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
+            <file>$PROJ_DIR$\..\include\deprecated_definitions.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\startup_gcc.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\port.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\driverlib\sysctl.h</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 42</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\freertos_demo - revised by Ameya\freertos_demo.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 54</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 10</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 11 16 46 49 8 34 62 9 37 55 57 6 63 0 32 19 14 52 58 47 18 17 40 59 20 3 4 43 33 12</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 47 0 31 43 55 52 46 8 16 20 9 6 19 33 17 49 37 57 63 32 14 4 12 34 62 58 18 40 3 11 59</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\freertos_demo - revised by Ameya\startup_ccs.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 41</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 53</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 16 46 49 8 34 62 45 37</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 46 62 37 34 45 49 8 16</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\freertos_demo - revised by Ameya\switch_task.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 56</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 5</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 11 16 46 49 8 34 62 9 37 48 63 55 6 39 32 14 19 28 52 58 47 18 17 40 59</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 49 12 39 16 59 48 28 46 8 9 55 14 4 17 33 37 63 6 32 19 52 38 34 62 31 58 18 40 47 20 3 43 11</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\freertos_demo - revised by Ameya\led_task.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 27</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 30</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 11 16 46 49 8 34 62 9 37 55 6 35 39 32 19 28 52 58 47 18 17 40 59</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 47 32 43 55 4 18 20 9 35 28 12 46 8 49 16 37 6 39 19 52 33 34 62 58 40 3 11 31 17 59</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\freertos_demo - revised by Ameya\startup_rvmdk.S</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 2</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 7</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 44</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\freertos_demo - revised by Ameya\startup_ewarm.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 51</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 1</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 16 46 49 8 34 62 45 37</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 34 37 46 62 45 49 8 16</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\freertos_demo - revised by Ameya\port.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 36</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 61</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 58 46 40 18 3 4 16 17 47 8 49 20 43 52 34 62 59</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\freertos_demo - revised by Ameya\startup_gcc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 60</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 50</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 16 46 49 8 34 62 45 37</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 49 37 8 45 46 34 62 16</file>
+                </tool>
+            </inputs>
+        </file>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\freertos_demo - revised by Ameya\freertos_demo.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\freertos_demo - revised by Ameya\startup_ccs.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\freertos_demo - revised by Ameya\switch_task.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\freertos_demo - revised by Ameya\led_task.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\freertos_demo - revised by Ameya\startup_gcc.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>
